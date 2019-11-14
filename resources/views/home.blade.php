@@ -20,15 +20,15 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row pt-5">
       <div class="col-4">
-          <img src="https://www.desmaakspecialist.nl/wp-content/uploads/sites/2/2017/04/IMG-20170401-WA0004-300x300.jpg" />
+          <img src="https://www.desmaakspecialist.nl/wp-content/uploads/sites/2/2017/04/IMG-20170401-WA0004-300x300.jpg" class="w-100" />
       </div>
       <div class="col-4">
-          <img src="https://www.desmaakspecialist.nl/wp-content/uploads/sites/2/2017/04/IMG-20170401-WA0004-300x300.jpg" />
+          <img src="https://kucht.com/online/wp-content/uploads/2018/12/azul-293x293.jpg" class="w-100"/>
       </div>
       <div class="col-4">
-          <img src="https://www.desmaakspecialist.nl/wp-content/uploads/sites/2/2017/04/IMG-20170401-WA0004-300x300.jpg" />
+          <img src="https://www.biotoday.bio/wp-content/uploads/sites/2/2019/01/IMG_3913-293x293.jpg" class="w-100" />
       </div>
     </div>
 </div>
